@@ -1,0 +1,14 @@
+
+    @media all and {max-width: 500px;}
+    h1{
+        font-size: 200%;background-color: 
+        aquamarine;z-index: auto;text-align: center; @media all and {max-width: 500px;}
+    }
+    p{
+        font-size: x-large;background-color: 
+        rgb(21, 188, 138);text-align: center; @media all and {max-width: 500px;}
+    }
+    ul{
+        font-size: medium;
+        font-weight: bold; @media all and {max-width: 500px;}
+    }
