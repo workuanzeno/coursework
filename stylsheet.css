@@ -1,0 +1,26 @@
+.flexbox-container{
+    display: flex;background-color: yellowgreen;
+    justify-content: center;spa
+}
+
+
+
+
+
+.flexbox-item-1{
+    width: 200px;margin: 10px;
+    border: 11px solid rebeccapurple; 
+    background-color: brown;
+}
+.flexbox-item-2{
+    width: 200px;margin: 10px;
+    border: 11px solid rebeccapurple; 
+    background-color: brown;
+
+.flexbox-item-3 {
+    width: 200px;margin: 10px;
+        border: 11px solid rebeccapurple; 
+        background-color: brown;
+
+    }
+
